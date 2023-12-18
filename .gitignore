@@ -1,0 +1,7 @@
+# Archivos LaTeX auxiliares
+*.aux
+*.fdb_latexmk
+*.fls
+*.listing
+*.log
+*.gz
